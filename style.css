@@ -4,6 +4,18 @@
     text-align: center;
 }
 
+.main-page{
+    background-color: aliceblue;
+    width: 600px;
+    margin-left: auto;
+margin-right: auto;
+padding: 10px;
+}
+
+.recipe-buttons{
+    background-color: aliceblue;
+}
+
 .title{
     font-weight: 700;
     font-size: 50px;
@@ -38,19 +50,25 @@ a{
     border: 2px solid #d44344;
 }
 
-h3{
+.title.specs{
     font-size: 30px;
-    
 }
 
-ol, ul{
+p,ol, ul{
+    background-color: aliceblue;
     display: inline-block;
-    width: 400px;
+    width: 370px;
     margin-left: auto;
     margin-right: auto;
 }
 
+div{
+    background-color: aliceblue;
+    padding-right: 50px;
+}
+
 li{
+    background-color: aliceblue;
     text-align: left;
 }
 
